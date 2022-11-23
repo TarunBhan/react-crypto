@@ -1,6 +1,7 @@
 .coin-container{
   display: flex;
   justify-content: center;
+  margin-top: 0;
 }
 /* h1{
 height: 100px;
@@ -13,7 +14,7 @@ widht:25px;
   align-items: center;
   height: 80px;
   border-bottom: 1px solid rgb(0, 0, 0);
-  width: 900px;
+  width: 1010px;
 }
 .coin{
   display:flex;
